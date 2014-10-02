@@ -5,11 +5,11 @@ function setup()
   stroke(255, 0, 0);
 }
 
-  function draw()
+  function draw() 
 {
   background(0);
   ellipse(400, 300, mouseX, mouseY);
 }
-  
+   
 
   
